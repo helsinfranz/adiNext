@@ -39,3 +39,13 @@ a {
     color-scheme: dark;
   }
 }
+
+.darkHeader {
+  background: green;
+  color: saddlebrown;
+}
+
+.img_tag {
+  width: 250px;
+  height: 100px;
+}
